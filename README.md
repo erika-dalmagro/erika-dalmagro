@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Érika! ✨:
+
+I'm a full-stack developer since 2018. This is my personal profile, where i keep my own projects.
+
+Welcome!
 
 <!--
 **erika-dalmagro/erika-dalmagro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
